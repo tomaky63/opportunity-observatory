@@ -1,0 +1,208 @@
+{
+  "format": "public-reader-release/v1",
+  "articleCount": 33,
+  "currentArticleCount": 29,
+  "archivedArticleCount": 4,
+  "reviewRevisionId": "9ce6a385-481b-4de0-ad9e-19d28c963364",
+  "reviewHash": "898c496217e444b0a7c2acc7de44007d56c6f7e7f5cfcded298b99c223f13012",
+  "files": [
+    {
+      "file": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "404.html",
+      "bytes": 1108,
+      "sha256": "836d9677915da905c4e944fc74d0f27633bd47b221739e0a927f6d5ef039c4ae"
+    },
+    {
+      "file": "about.html",
+      "bytes": 1931,
+      "sha256": "ff004ed24455c4de6755718c9977621a9ab06b613a889c97b44bcdcb08df3428"
+    },
+    {
+      "file": "articles/ai-execution-boundaries/b3b93e86-cbfa-468e-94f8-cd17dc5bb65c.html",
+      "bytes": 53198,
+      "sha256": "20b386f509d845e795a5ff2dadbe60d0501d517672f10cd48fbcf2d37e2d8e4a"
+    },
+    {
+      "file": "articles/battery-information-flow/dab14f59-bcc0-4d3d-8b78-eb45f4fcae1e.html",
+      "bytes": 9640,
+      "sha256": "3601167c6d64a62f32dc39f3d345ddc79fd2c2b89230869f2c5b779b27b8f395"
+    },
+    {
+      "file": "articles/compute-cooling/b907a501-255f-4cdb-9939-506dba0920fd.html",
+      "bytes": 9000,
+      "sha256": "717935a46ae6c1d88734c36a7050b37085c823213fef306f90d72c9c99d2c2ca"
+    },
+    {
+      "file": "articles/depot-profiled-electricity-boundaries/652df406-874e-4126-bfff-423e8b3a9f4a.html",
+      "bytes": 16241,
+      "sha256": "04e578ed916909c612b1ba932404eab4d701efb7a17e2bb68996f7a5cc7ffd0b"
+    },
+    {
+      "file": "articles/field-ai/95959b77-dd68-4df4-9bd5-b0da13abea84.html",
+      "bytes": 27371,
+      "sha256": "4a685333107a2f1ebe1f09963af9ea358d97bb170e330df7390569cfce143d44"
+    },
+    {
+      "file": "articles/field-autonomy/1c10b0b3-5fa9-4521-8e3a-ce70994ef6c6.html",
+      "bytes": 27731,
+      "sha256": "87ae047a2d76d4b46204728b8d966f5c3feccc858e7d3a0fa4f4d6809c0de961"
+    },
+    {
+      "file": "articles/field-fusion/8b133484-d0ff-4417-a4bf-ad8923d7341a.html",
+      "bytes": 28428,
+      "sha256": "9bf399954b42397afc81d1338d5d46a940569eadd06b3b2799611de7ebdfd227"
+    },
+    {
+      "file": "articles/field-quantum/39acafc6-cfd2-41a3-bc25-64d4664c8924.html",
+      "bytes": 27591,
+      "sha256": "051f9aa310aca56e584bf2b2bd4a468f35a22d578877ba784ead67fffd607c7f"
+    },
+    {
+      "file": "articles/housing-continuity/756e1006-37c1-4368-b931-9fbb818cffcc.html",
+      "bytes": 5990,
+      "sha256": "c90012a85c6eb3f61d6d9106b261c0907bac9df65a882468d9e3f9fd8d77bc9c"
+    },
+    {
+      "file": "articles/industrial-heat-flexibility/b535cee5-0cfb-42b2-9884-cf501ccf34c1.html",
+      "bytes": 53615,
+      "sha256": "f3548c618ee2adccb658a7969cbe5563b6199b7da09263cf28dddc9404e87a49"
+    },
+    {
+      "file": "articles/site29-permian-workflow/fbefcab9-9f1f-4e79-b216-730c11f50b6d.html",
+      "bytes": 76202,
+      "sha256": "e7fa72f52df3b45f86e142a4c29a0086fabc0a61e472ac3aacaac981c181c618"
+    },
+    {
+      "file": "articles/site30-water-leak-contrast/fbbae1c2-a278-433b-ba38-e4d6730f0839.html",
+      "bytes": 63109,
+      "sha256": "71578707ca1591eea1d6ad62fedde3dbd5d281a54744d1c1f846fd25242c2c50"
+    },
+    {
+      "file": "articles/site31-battery-product-entry/dcd25b8d-0fc8-4bf1-84a9-75adb8a2d0bc.html",
+      "bytes": 86050,
+      "sha256": "319722aad002a2c5fd24287b78979f3d200baea2cd48416146f7e9ab52731b62"
+    },
+    {
+      "file": "articles/site31-battery-product-entry/ea1044c7-1b6f-469e-b340-838cb5699552.html",
+      "bytes": 80572,
+      "sha256": "258ce520a75634890cae11131a4300e21cff5d0e35cc0c0a60e223876c4f2fb3"
+    },
+    {
+      "file": "articles/theme-ac225-qualified-supply-adoption/dbd71d9a-4258-4269-8550-ddd186ff0dde.html",
+      "bytes": 47775,
+      "sha256": "0fda9959d0d0616ca2f0e2ff0afbf88cdbf8d5439bfaede6924ef76884811143"
+    },
+    {
+      "file": "articles/theme-battery-recycling-delayed-feedstock/29426cac-6455-4938-b9f5-d4d0f3c5c509.html",
+      "bytes": 28108,
+      "sha256": "cf60a6387b32a8491c1962a276f76fd37eb693c86d192f451918d6d97b6be0a1"
+    },
+    {
+      "file": "articles/theme-content-catalog-publisher/e2b2353a-ea23-41af-b9cf-7dc2783e78e9.html",
+      "bytes": 33145,
+      "sha256": "699469f30995a910d63abcc92226a7e47aeeb787a496a555d9a581a92decb040"
+    },
+    {
+      "file": "articles/theme-content-original-rights/791c9803-116b-4073-9154-727349245830.html",
+      "bytes": 33350,
+      "sha256": "8f5dd31faa39d67e45b042aec01a65941f0d8288608388665595771fdcf50819"
+    },
+    {
+      "file": "articles/theme-employer-childcare/28922926-102d-481d-92bd-09fb573e49b0.html",
+      "bytes": 46434,
+      "sha256": "a8d133b585219fbb6e755762455157a5ead7863b40c3c6cec0570c33a57d2a6c"
+    },
+    {
+      "file": "articles/theme-employer-housing-payer/a3088941-acdc-4da8-8197-ad95b2034113.html",
+      "bytes": 36986,
+      "sha256": "60caac7058c2486d2046b44bc00b4610636d2ace67a0b1aa208a66cc3bacfb66"
+    },
+    {
+      "file": "articles/theme-genentech-cellfree-functional-protein/1bd964ab-fd69-4f82-82a6-2043cdc04c70.html",
+      "bytes": 42804,
+      "sha256": "49457a020695c19cff13e275d5296cecf059513222a97c18df45c7ba69e0f3fa"
+    },
+    {
+      "file": "articles/theme-history-first-shared-capacity/90410c5e-cdb4-4345-a062-ddf93f79249c.html",
+      "bytes": 84162,
+      "sha256": "43908867fa222eeaba42f0d70dd98674464f4bb1b3754e2210ebfd2ecb93d01d"
+    },
+    {
+      "file": "articles/theme-human-liver-indirect-dili-assay/a8f89c06-b1fa-4dba-85c8-4f5c5cd202ff.html",
+      "bytes": 33932,
+      "sha256": "4c8aa9940d180481e5099e023d9dca057291002b7f57ad37e5d3010d7fa546c1"
+    },
+    {
+      "file": "articles/theme-industrial-knowledge-apps/f389c243-feff-4500-a9b1-076cdc6c4379.html",
+      "bytes": 93901,
+      "sha256": "1977ffe79f1f5258795577989b7223e65cd036c0a0b35de26766e48faea60e44"
+    },
+    {
+      "file": "articles/theme-photonics-oem-module/166a9128-bde3-4a1c-b201-15bf304fc6ab.html",
+      "bytes": 38883,
+      "sha256": "b4c1430181dd444357f5e64213c870f90e56b2641a5764cf2997bbbd71ab25d5"
+    },
+    {
+      "file": "articles/theme-pnc-standard-capture/3773ce01-2464-4e65-bc58-e5a8a5c76edc.html",
+      "bytes": 41433,
+      "sha256": "5ab43c7ad72af0d639468635891a8043f64af2dda40d9d1e229de9f2dd25c768"
+    },
+    {
+      "file": "articles/theme-pnc-standard-capture/7c3be980-8c71-4ff1-a391-b10375968954.html",
+      "bytes": 35903,
+      "sha256": "4b4ddc83a5d5f13c52149ac422aa4d0f96411f49d4313c065169af2668ba5220"
+    },
+    {
+      "file": "articles/theme-pnc-standard-capture/dc7e8a50-ffd8-4f2a-ae03-2aa27405a15a.html",
+      "bytes": 45434,
+      "sha256": "e52bf757d323ecae11ae1da7fe4cde7d6ba84e21d33fe3db36e670556273594c"
+    },
+    {
+      "file": "articles/theme-product-images-history-pilot/17898355-c45c-4b87-bef4-fc074bec5316.html",
+      "bytes": 104987,
+      "sha256": "e18b8547183c9ade7ad613f34aabee535d92dfee9a28ee1aa9f102209ffcd50f"
+    },
+    {
+      "file": "articles/theme-product-images-history-pilot/35c8725e-6667-4d01-aeec-599a8321dec8.html",
+      "bytes": 98699,
+      "sha256": "5de928bc03d5ae6c67f30f38029d7edea382be12064b99008244ca4746b94e0e"
+    },
+    {
+      "file": "articles/theme-retail-instant-payment-readiness/8c38e2e5-603a-4dfd-9ab6-6229cf06e4cf.html",
+      "bytes": 36313,
+      "sha256": "c671cee71a70158391c297ab6402a4aa1812ae02f7e7db7c8969617ccddf4eb5"
+    },
+    {
+      "file": "articles/trade-documents-completion/0afb1cea-d6b4-4402-9bd1-538453ae8261.html",
+      "bytes": 41722,
+      "sha256": "dae86f53c31432a5b2aaa4ac779f0122c314b2252c1051e174a18ae7f957c399"
+    },
+    {
+      "file": "articles/warehouse-robot-execution/44520798-61f5-4f30-a551-299be9da27b1.html",
+      "bytes": 32052,
+      "sha256": "952ffcfba92d18837f1aec78f35b6ecbd6574eeb0b248d4227bb9d1452077f8d"
+    },
+    {
+      "file": "assets/reader.css",
+      "bytes": 3734,
+      "sha256": "27d348c065143514ab3b3dbd141bc18f44711a68cefa7849816ffc21ecd14dc5"
+    },
+    {
+      "file": "index.html",
+      "bytes": 13629,
+      "sha256": "554dec98921dbc85206356beffe457c1e558dcecfaeede6219518e644c8b611e"
+    },
+    {
+      "file": "library.html",
+      "bytes": 20126,
+      "sha256": "d013c7a58c9a102d2c3a7910998d061cd8f4352e3878598e4c7825577face7c1"
+    }
+  ],
+  "runtimeDatabase": false,
+  "readerApiRequests": 0,
+  "readerJavascriptBytes": 0
+}
