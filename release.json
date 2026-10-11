@@ -9671,7 +9671,7 @@
     "sha256": "b9607052a520eacf450c85636d4c08e7846b5001036d2b3c2a2e73b07aa533fe",
     "bytes": 21409954
   },
-  "generatorSourceSha256": "7c8df3ab4195b408398957f2be55a62247b56941754af6e17a1d084797f49f09",
+  "generatorSourceSha256": "9c8e53d611fbdfc418952881fd7487e59d44fc7c24b8cbaffe61bc419a587289",
   "readingInputSha256": "10c5a9561337259bf83b98ca1ea80ea0f7b1a613d44a791ddcd5b40a05595db2",
   "generatorSources": [
     {
@@ -9701,6 +9701,10 @@
     {
       "file": "static-reader/faithful/completion.jsx",
       "sha256": "4a7c4045746a6736120e89e41526efd61293bcec14487f012dfc36ffa22b4959"
+    },
+    {
+      "file": "static-reader/faithful/economic-boundary-projection.d.mts",
+      "sha256": "1f6dd2009a9a4ce8e54f537297b2839d4cbaefddefb0f9a568c5f92161217e5d"
     },
     {
       "file": "static-reader/faithful/economic-boundary-projection.mjs",
